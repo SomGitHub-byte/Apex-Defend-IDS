@@ -1,0 +1,39 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Generated files
+*.csv
+*.xlsx
+*.json
+*.pcap
+*.pcapng
+ApexDefend_Audit_*.xlsx
+ApexDefend_Capture_*.pcap
+ApexDefend_IOCs_*.csv
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+build/
+dist/
+*.spec
